@@ -7,7 +7,7 @@ Fork this repository and create a topic branch named after you.  For example, my
 
 Step 2
 ======
-Working on your topic branch, use a [cocoapod](http://cocoapods.org/) to solve the riddle in the root view controller.
+Working on your topic branch, use a [cocoapod](http://cocoapods.org/) to solve the riddle in the root view controller.  **Don't overthink this!** it requires only 1 change.
 Solving the riddle will make the app crash unless you have completed Step 3 as well.
 
 Step 3
