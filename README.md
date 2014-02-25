@@ -15,4 +15,4 @@ Step 3
 Update the UITableViewDatasource and UITableViewDelegate to reveal the final instruction
 
 
-**Bonus:** Our test app isn't quite ready for iPad yet.  Please modify the project so that it will run the iPhone verion on an iPad.  
+**Bonus:** Our test app isn't quite ready for iPad yet.  Please modify the project so that it will run the iPhone version on an iPad.  
