@@ -95,8 +95,8 @@
 			children = (
 				45EA41313C6917308265BD12 /* IntViewController.h */,
 				45EA422D7EEE354833C23B94 /* IntViewController.m */,
-				45EA4AA67EBD8B6F500A9645 /* IntTableViewController.m */,
 				45EA4429E3C3290BF9E5482D /* IntTableViewController.h */,
+				45EA4AA67EBD8B6F500A9645 /* IntTableViewController.m */,
 			);
 			path = Views;
 			sourceTree = "<group>";
