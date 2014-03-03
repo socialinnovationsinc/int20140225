@@ -457,6 +457,7 @@
 				GCC_PREFIX_HEADER = "int20140225/int20140225-Prefix.pch";
 				INFOPLIST_FILE = "int20140225/int20140225-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -471,6 +472,7 @@
 				GCC_PREFIX_HEADER = "int20140225/int20140225-Prefix.pch";
 				INFOPLIST_FILE = "int20140225/int20140225-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
